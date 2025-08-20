@@ -57,9 +57,13 @@ Processing, analyzing, and predicting global precipitation patterns.
 ## 🏆 Certifications
 
 ✅ MSc in Applied Data Science – University of Canterbury 
+
 ✅ MLOps Zoomcamp – DataTalks.Club (2025)  
+
 ✅ Data Engineering Zoomcamp – DataTalks.Club  
+
 ✅ Machine Learning For Data Analytic – University of Science - HCMC  
+
 ✅ Advanced Python -  Datacamp 2024  
 
 ---
