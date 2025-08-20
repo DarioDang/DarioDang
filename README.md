@@ -6,6 +6,17 @@ I’m passionate about building **automated, production-ready pipelines** that c
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarioDang&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioDang&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarioDang&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🔧 Core Skills
 
 - **Languages & Tools**: Python, SQL, R, Flask, Docker, Git, Bash  
@@ -49,17 +60,6 @@ Genre classification and audio recommendation at scale using PySpark.
 ✅ Advanced Python -  Datacamp 2024  
 
 ---
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarioDang&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioDang&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarioDang&theme=default" alt="GitHub Streak" />
-</p>
 
 ## 📬 Let's Connect
 
