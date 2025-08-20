@@ -30,24 +30,27 @@ I’m passionate about building **automated, production-ready pipelines** that c
 
 ## 📌 Featured Projects
 
-### 🚖 [Chicago Taxi MLOps Pipeline](https://dariodang.github.io/projects/taxi_ride.html)  
+### 🚖 [Chicago Taxi MLOps Pipeline](https://dariodang.github.io/projects/taxi_ride.html)
 End-to-end MLOps pipeline using Docker, MLflow, and Prefect  
 → Batch predictions served via Flask, monitored in Grafana, and deployed with version control.
 
-### 🧑‍⚕️ [Healthcare Risk Prediction UI](http://localhost:8000/projects/healthcare_gui.html)
+### 🧑‍⚕️ [Healthcare Risk Prediction UI](https://dariodang.github.io/projects/healthcare_gui.html)
 Streamlit-based app to predict patient risk scores from input health metrics.  
 → Demo video embedded with UI walkthrough. *(Non-production prototype)*
 
 ### 🎓 [Student Retention in Higher Education](https://dariodang.github.io/projects/student_retention.html)  
 Predicting student dropout risk using statistical models and cohort features.  
 
-
-### 🌍 [Geospatial Crash Modelling](https://dariodang.github.io/projects/wellington_crash.html)  
+### 🌍 [Geospatial Crash Modelling](https://dariodang.github.io/projects/geospatial_crash.html)  
 Geospatial analysis to model crash hotspots using Kernel Density Estimation and spatial regression.
 
-### 🎶 [Million Songs - PySpark](https://dariodang.github.io/projects/million_songs.html)  
+### 🎶 [Million Songs - PySpark](https://dariodang.github.io/projects/million-songs.html)  
 Genre classification and audio recommendation at scale using PySpark.  
 → Large-scale distributed processing of the Million Song Dataset.
+
+### 🌧️ [Precipitation Analysis](https://dariodang.github.io/projects/precipitation-project.html)  
+Processing, analyzing, and predicting global precipitation patterns.  
+→ Forecasting trends using satellite and meteorological datasets with PySpark.
 
 ---
 
