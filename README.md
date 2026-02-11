@@ -29,6 +29,10 @@ I’m passionate about building **automated, production-ready pipelines** that c
 ---
 
 ## 📌 Featured Projects
+### 🍽️ [Christchurch Restaurant FoodieBot](https://chc-restaurants-reviews.streamlit.app/)
+End-to-end RAG system using Qdrant, Phoenix, and Streamlit
+→  Hybrid search combining semantic embeddings with BM25 keyword matching for intelligent restaurant discovery.
+→  Location-aware recommendations with dish-level sentiment analysis, evaluated via shadow architecture in Phoenix.
 
 ### 🚖 [Chicago Taxi MLOps Pipeline](https://dariodang.github.io/projects/taxi_ride.html)
 End-to-end MLOps pipeline using Docker, MLflow, and Prefect  
