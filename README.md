@@ -7,7 +7,7 @@ I’m passionate about building **automated, production-ready pipelines** that c
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioDang&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariodang&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
