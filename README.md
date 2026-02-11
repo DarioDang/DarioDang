@@ -8,7 +8,7 @@ I’m passionate about building **automated, production-ready pipelines** that c
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dariodang&theme=default" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dariodang&theme=default" alt="Top Languages by Commit" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariodang&layout=compact&card_width=445&theme=default&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
