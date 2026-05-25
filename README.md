@@ -28,6 +28,17 @@ I’m passionate about building **automated, production-ready pipelines** that c
 ---
 
 ## 📌 Featured Projects
+
+### ⚡ [NZ Electricity Dashboard](https://newzealand-electricity-dashboard.netlify.app/)
+A data engineering pipeline and live dashboard project ingesting live NZ electricity market data via em6 API  
+→ GitHub Actions cron every 30 min → Neon Postgres (ap-southeast-2) → dbt transforms (82 data tests)  
+→ FastAPI backend with real-time HTML/JS dashboard and Streamlit alternative, deployed on Netlify & Render
+
+### 🛒 [New Zealand Retail Product Price Dashboard](https://retail-price-intelligence.netlify.app/)
+End-to-end data engineering pipeline tracking NZ electronics prices across sellers daily  
+→ SerpAPI ingestion → S3 data lake → dbt transformations on AWS RDS PostgreSQL  
+→ FastAPI backend with live HTML dashboard deployed on Render & Netlify, automated via Prefect Cloud
+
 ### 🍽️ [Christchurch Restaurant FoodieBot](https://chc-restaurants-reviews.streamlit.app/)
 End-to-end RAG system using Qdrant, Phoenix, and Streamlit  
 → Hybrid search combining semantic embeddings with BM25 keyword matching for intelligent restaurant discovery.  
