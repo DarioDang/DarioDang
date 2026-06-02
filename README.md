@@ -29,7 +29,7 @@ I’m passionate about building **automated, production-ready pipelines** that c
 
 ## 📌 Featured Projects
 
-### ⚡ [NZ Electricity Dashboard](https://newzealand-electricity-dashboard.netlify.app/)
+### ⚡ [New Zealand Electricity Dashboard](https://newzealand-electricity-dashboard.netlify.app/)
 A data engineering pipeline and live dashboard project ingesting live NZ electricity market data via em6 API  
 → GitHub Actions cron every 30 min → Neon Postgres (ap-southeast-2) → dbt transforms (82 data tests)  
 → FastAPI backend with real-time HTML/JS dashboard and Streamlit alternative, deployed on Netlify & Render
